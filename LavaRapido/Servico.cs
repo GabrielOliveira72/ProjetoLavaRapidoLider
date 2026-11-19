@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LavaRapido
+namespace LavaRapido            
 {
     internal class Servico
     {
